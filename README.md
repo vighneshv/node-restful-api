@@ -1,2 +1,2 @@
-# node-rest-api
-Eshop REST API eg.
+# RESTful API with Node.js
+Eshop RESTful API eg.
